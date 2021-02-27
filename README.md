@@ -1,2 +1,3 @@
 # simple-arkanoid-typescript
-Created with CodeSandbox
+
+Create simple arkanoid using typescript
