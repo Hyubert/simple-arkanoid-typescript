@@ -16,5 +16,6 @@
     "strictNullChecks": true,
     "suppressImplicitAnyIndexErrors": true,
     "noUnusedLocals": true
-  }
+  },
+  "exclude": ["**/*.d.ts"]
 }
